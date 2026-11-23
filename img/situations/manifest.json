@@ -492,6 +492,104 @@
     "s1"
    ],
    "qc": "passed 2026-11-23"
+  },
+  "s18": {
+   "canva_media": "MAHbw68szvE",
+   "scene": "Motorway right lane, car merging from the on-ramp on the right",
+   "edits": [],
+   "asset_id": "ajk-sit-s18-v1",
+   "files": {
+    "1920": "s18-v1-1920.webp",
+    "960": "s18-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 112054,
+    "960": 45054
+   },
+   "used_by": [
+    "s18",
+    "s62",
+    "s82"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s81": {
+   "canva_media": "MAHbw_NqVB4",
+   "scene": "Joining the motorway from the acceleration lane, traffic passing on the left",
+   "edits": [
+    "regenerated once: first version was not on the slip road"
+   ],
+   "asset_id": "ajk-sit-s81-v1",
+   "files": {
+    "1920": "s81-v1-1920.webp",
+    "960": "s81-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 164006,
+    "960": 66990
+   },
+   "used_by": [
+    "s81"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s83": {
+   "canva_media": "MAHbw1zqXpA",
+   "scene": "Motorway queue in both lanes, empty hard shoulder on the right",
+   "edits": [
+    "regenerated once: first version had a car on the left shoulder and a narrow hard shoulder"
+   ],
+   "asset_id": "ajk-sit-s83-v1",
+   "files": {
+    "1920": "s83-v1-1920.webp",
+    "960": "s83-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 73434,
+    "960": 29556
+   },
+   "used_by": [
+    "s83"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s85": {
+   "canva_media": "MAHbw1nX3vU",
+   "scene": "Motorway at speed, car ahead in our lane",
+   "edits": [],
+   "asset_id": "ajk-sit-s85-v1",
+   "files": {
+    "1920": "s85-v1-1920.webp",
+    "960": "s85-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 123958,
+    "960": 50248
+   },
+   "used_by": [
+    "s85"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s86": {
+   "canva_media": "MAHbw6V_aQY",
+   "scene": "Start of the motorway, motorway sign, no speed-limit sign",
+   "edits": [
+    "E15 motorway sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s86-v1",
+   "files": {
+    "1920": "s86-v1-1920.webp",
+    "960": "s86-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 132538,
+    "960": 54728
+   },
+   "used_by": [
+    "s86"
+   ],
+   "qc": "passed 2026-11-23"
   }
  }
 }
