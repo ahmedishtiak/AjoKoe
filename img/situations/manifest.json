@@ -395,6 +395,103 @@
     "s59"
    ],
    "qc": "passed 2026-11-23"
+  },
+  "s104": {
+   "canva_media": "MAHbw_sFtlI",
+   "scene": "Oncoming car drifting over the centre line towards us",
+   "edits": [],
+   "asset_id": "ajk-sit-s104-v1",
+   "files": {
+    "1920": "s104-v1-1920.webp",
+    "960": "s104-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 95846,
+    "960": 37490
+   },
+   "used_by": [
+    "s104"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s37": {
+   "canva_media": "MAHbwyNbToU",
+   "scene": "Van parked on our side of a narrow road, oncoming car",
+   "edits": [],
+   "asset_id": "ajk-sit-s37-v1",
+   "files": {
+    "1920": "s37-v1-1920.webp",
+    "960": "s37-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 148872,
+    "960": 62366
+   },
+   "used_by": [
+    "s37"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s79": {
+   "canva_media": "MAHbw2d7t8M",
+   "scene": "Elk (moose) crossing the road in our lane",
+   "edits": [
+    "regenerated once: first animal looked like a deer, not an elk"
+   ],
+   "asset_id": "ajk-sit-s79-v1",
+   "files": {
+    "1920": "s79-v1-1920.webp",
+    "960": "s79-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 98202,
+    "960": 38972
+   },
+   "used_by": [
+    "s79"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s96": {
+   "canva_media": "MAHbwxJfdac",
+   "scene": "Rural 80 km/h road, coach signalling to leave a lay-by stop",
+   "edits": [
+    "regenerated once: first version was a town street",
+    "C32 80 km/h sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s96-v1",
+   "files": {
+    "1920": "s96-v1-1920.webp",
+    "960": "s96-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 119012,
+    "960": 48270
+   },
+   "used_by": [
+    "s96"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s1": {
+   "canva_media": "MAHbw6haHg4",
+   "scene": "Town crossroads, straight-ahead arrow in our lane, oncoming red lorry",
+   "edits": [
+    "regenerated twice: crossroads, lane arrow and red lorry (the explanation mentions both)"
+   ],
+   "asset_id": "ajk-sit-s1-v1",
+   "files": {
+    "1920": "s1-v1-1920.webp",
+    "960": "s1-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 115112,
+    "960": 46526
+   },
+   "used_by": [
+    "s1"
+   ],
+   "qc": "passed 2026-11-23"
   }
  }
 }
