@@ -1,0 +1,27 @@
+name: Fetch generated images (temporary)
+on:
+  push:
+    branches: [image-upgrade-samples]
+    paths: [tools/img-sources.txt]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download sources
+        run: |
+          mkdir -p _incoming
+          while read -r id url; do
+            [ -z "$id" ] && continue
+            curl -fsSL --max-time 60 -o "_incoming/${id}.jpg" "$url"
+            file "_incoming/${id}.jpg"
+          done < tools/img-sources.txt
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add _incoming
+          git commit -m "Fetch generated sample images" || echo "nothing to commit"
+          git push
