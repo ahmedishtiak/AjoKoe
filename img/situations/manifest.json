@@ -190,6 +190,109 @@
     "s98"
    ],
    "qc": "passed 2026-11-23"
+  },
+  "s13": {
+   "canva_media": "MAHbwt-vh40",
+   "scene": "Rural road in dense fog, dipped headlights",
+   "edits": [
+    "regenerated once: first version had the car straddling the centre line"
+   ],
+   "asset_id": "ajk-sit-s13-v1",
+   "files": {
+    "1920": "s13-v1-1920.webp",
+    "960": "s13-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 64560,
+    "960": 25962
+   },
+   "used_by": [
+    "s13",
+    "s72"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s25": {
+   "canva_media": "MAHbwm9NsTQ",
+   "scene": "Heavy rain, standing water across our lane",
+   "edits": [
+    "regenerated once: car position and water placement"
+   ],
+   "asset_id": "ajk-sit-s25-v1",
+   "files": {
+    "1920": "s25-v1-1920.webp",
+    "960": "s25-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 113524,
+    "960": 46824
+   },
+   "used_by": [
+    "s25",
+    "s73",
+    "s105"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s6": {
+   "canva_media": "MAHbwjdhyys",
+   "scene": "Snowy rural road, car ahead in our lane",
+   "edits": [],
+   "asset_id": "ajk-sit-s6-v1",
+   "files": {
+    "1920": "s6-v1-1920.webp",
+    "960": "s6-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 108112,
+    "960": 46282
+   },
+   "used_by": [
+    "s6",
+    "s70",
+    "s76"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s16": {
+   "canva_media": "MAHbwlK_new",
+   "scene": "Bend ahead around a rock face, solid centre line",
+   "edits": [],
+   "asset_id": "ajk-sit-s16-v1",
+   "files": {
+    "1920": "s16-v1-1920.webp",
+    "960": "s16-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 186672,
+    "960": 77294
+   },
+   "used_by": [
+    "s16",
+    "s75"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s22": {
+   "canva_media": "MAHbwreQFBo",
+   "scene": "Night, full beam on, oncoming car",
+   "edits": [
+    "regenerated once: car position"
+   ],
+   "asset_id": "ajk-sit-s22-v1",
+   "files": {
+    "1920": "s22-v1-1920.webp",
+    "960": "s22-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 99040,
+    "960": 39350
+   },
+   "used_by": [
+    "s22",
+    "s74"
+   ],
+   "qc": "passed 2026-11-23"
   }
  }
 }
