@@ -88,6 +88,108 @@
     "960": 26330
    },
    "qc": "passed 2026-11-23"
+  },
+  "s78": {
+   "canva_media": "MAHbwu2JOmo",
+   "scene": "Lapland main road, reindeer warning sign, reindeer on the right verge",
+   "edits": [
+    "A20.2 reindeer sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s78-v1",
+   "files": {
+    "1920": "s78-v1-1920.webp",
+    "960": "s78-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 153528,
+    "960": 59904
+   },
+   "used_by": [
+    "s78"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s64": {
+   "canva_media": "MAHbwtb4Tus",
+   "scene": "Rural main road, 80 km/h speed-limit sign",
+   "edits": [
+    "C32 80 km/h sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s64-v1",
+   "files": {
+    "1920": "s64-v1-1920.webp",
+    "960": "s64-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 126826,
+    "960": 50928
+   },
+   "used_by": [
+    "s64"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s68": {
+   "canva_media": "MAHbwruB0i8",
+   "scene": "Country road, 'other danger' warning sign",
+   "edits": [
+    "A33 sign composited (AI had drawn a level-crossing sign)"
+   ],
+   "asset_id": "ajk-sit-s68-v1",
+   "files": {
+    "1920": "s68-v1-1920.webp",
+    "960": "s68-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 97824,
+    "960": 38176
+   },
+   "used_by": [
+    "s68",
+    "s80"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s28": {
+   "canva_media": "MAHbwmUB47A",
+   "scene": "Rural road approaching an unguarded level crossing",
+   "edits": [
+    "A26 warning sign and A29.1 crossbuck replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s28-v1",
+   "files": {
+    "1920": "s28-v1-1920.webp",
+    "960": "s28-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 105558,
+    "960": 43152
+   },
+   "used_by": [
+    "s28",
+    "s99"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s98": {
+   "canva_media": "MAHbwlbj6y0",
+   "scene": "Guarded level crossing, barrier down, red lights on",
+   "edits": [
+    "A29.1 crossbucks (2) replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s98-v1",
+   "files": {
+    "1920": "s98-v1-1920.webp",
+    "960": "s98-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 93704,
+    "960": 38810
+   },
+   "used_by": [
+    "s98"
+   ],
+   "qc": "passed 2026-11-23"
   }
  }
 }
