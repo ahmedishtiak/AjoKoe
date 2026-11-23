@@ -293,6 +293,108 @@
     "s74"
    ],
    "qc": "passed 2026-11-23"
+  },
+  "s3": {
+   "canva_media": "MAHbw_15gkw",
+   "scene": "Slow car ahead, single solid centre line",
+   "edits": [
+    "regenerated once: first version changed to a dashed line ahead",
+    "two stray white lane marks removed"
+   ],
+   "asset_id": "ajk-sit-s3-v1",
+   "files": {
+    "1920": "s3-v1-1920.webp",
+    "960": "s3-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 149804,
+    "960": 62362
+   },
+   "used_by": [
+    "s3",
+    "s57"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s58": {
+   "canva_media": "MAHbw66uscc",
+   "scene": "Dashed centre line, clear straight road, car ahead",
+   "edits": [],
+   "asset_id": "ajk-sit-s58-v1",
+   "files": {
+    "1920": "s58-v1-1920.webp",
+    "960": "s58-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 74708,
+    "960": 29756
+   },
+   "used_by": [
+    "s58"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s60": {
+   "canva_media": "MAHbw95IxA0",
+   "scene": "Car ahead entering a blind left bend, solid centre line",
+   "edits": [
+    "first generation failed on the server; retried"
+   ],
+   "asset_id": "ajk-sit-s60-v1",
+   "files": {
+    "1920": "s60-v1-1920.webp",
+    "960": "s60-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 89722,
+    "960": 35148
+   },
+   "used_by": [
+    "s60"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s61": {
+   "canva_media": "MAHbw1SQb9E",
+   "scene": "Car ahead signalling left to overtake a lorry",
+   "edits": [
+    "regenerated once: first version showed no clear left signal"
+   ],
+   "asset_id": "ajk-sit-s61-v1",
+   "files": {
+    "1920": "s61-v1-1920.webp",
+    "960": "s61-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 136744,
+    "960": 54594
+   },
+   "used_by": [
+    "s61"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s20": {
+   "canva_media": "MAHbw44a9_Q",
+   "scene": "Car ahead at the centre line signalling left to turn, room on the right",
+   "edits": [
+    "regenerated once",
+    "right indicator recoloured to a plain tail light (AI showed both indicators lit)"
+   ],
+   "asset_id": "ajk-sit-s20-v1",
+   "files": {
+    "1920": "s20-v1-1920.webp",
+    "960": "s20-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 119144,
+    "960": 47150
+   },
+   "used_by": [
+    "s20",
+    "s59"
+   ],
+   "qc": "passed 2026-11-23"
   }
  }
 }
