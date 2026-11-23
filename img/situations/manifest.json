@@ -1,0 +1,93 @@
+{
+ "version": 1,
+ "generated": "2026-11-23",
+ "generator": "Canva generate-image (photorealistic, 16:9), exported 1920x1080 JPEG q92",
+ "sign_artwork": "Väylävirasto liikennemerkit library (CC0 1.0), github.com/finnishtransportagency/liikennemerkit",
+ "files": {
+  "s49": {
+   "canva_media": "MAHbwv9SxWQ",
+   "scene": "City street, zebra crossing, pedestrian stepping on from the left",
+   "edits": [
+    "E1 crossing sign replaced with official Väylävirasto artwork"
+   ],
+   "asset_id": "ajk-sit-s49-v1",
+   "files": {
+    "1920": "s49-v1-1920.webp",
+    "960": "s49-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 160004,
+    "960": 66570
+   },
+   "qc": "passed 2026-11-23"
+  },
+  "s53": {
+   "canva_media": "MAHbwionrzs",
+   "scene": "City street, right-hand cycle lane, cyclist going straight past a side street on the right",
+   "edits": [],
+   "asset_id": "ajk-sit-s53-v1",
+   "files": {
+    "1920": "s53-v1-1920.webp",
+    "960": "s53-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 139656,
+    "960": 58864
+   },
+   "qc": "passed 2026-11-23"
+  },
+  "s41": {
+   "canva_media": "MAHbwkkwZY8",
+   "scene": "Roundabout entry, give-way line, car circulating left to right",
+   "edits": [
+    "D2 roundabout sign replaced with official artwork (AI arrows were garbled)"
+   ],
+   "asset_id": "ajk-sit-s41-v1",
+   "files": {
+    "1920": "s41-v1-1920.webp",
+    "960": "s41-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 179498,
+    "960": 72962
+   },
+   "qc": "passed 2026-11-23"
+  },
+  "s71": {
+   "canva_media": "MAHbwnjljT4",
+   "scene": "Snowy rural road, slippery-road warning sign",
+   "edits": [
+    "A13 slippery-road sign replaced with official artwork (AI pictogram was non-Finnish)",
+    "vertical seam in sky retouched"
+   ],
+   "asset_id": "ajk-sit-s71-v1",
+   "files": {
+    "1920": "s71-v1-1920.webp",
+    "960": "s71-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 172762,
+    "960": 73034
+   },
+   "qc": "passed 2026-11-23"
+  },
+  "s77": {
+   "canva_media": "MAHbwhv6Iuo",
+   "scene": "Forest road at dusk, elk warning sign",
+   "edits": [
+    "A20.1 elk sign replaced with official artwork (AI drew a deer)",
+    "duplicated centre-line dash removed"
+   ],
+   "asset_id": "ajk-sit-s77-v1",
+   "files": {
+    "1920": "s77-v1-1920.webp",
+    "960": "s77-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 66468,
+    "960": 26330
+   },
+   "qc": "passed 2026-11-23"
+  }
+ }
+}
