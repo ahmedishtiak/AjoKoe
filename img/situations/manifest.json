@@ -1497,6 +1497,49 @@
     "s90"
    ],
    "qc": "passed 2026-11-24"
+  },
+  "s89": {
+   "canva_media": "MAHb3O2YsR0",
+   "scene": "Autumn town street approaching a zebra crossing, empty kerb before the crossing, woman with pushchair waiting",
+   "edits": [
+    "AI sign replaced with official E1 pedestrian-crossing sign",
+    "yellow dashed line along the parked cars recoloured white (yellow would read as a second centre line)",
+    "car badge softened"
+   ],
+   "asset_id": "ajk-sit-s89-v1",
+   "files": {
+    "1920": "s89-v1-1920.webp",
+    "960": "s89-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 172948,
+    "960": 70466
+   },
+   "used_by": [
+    "s89"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s84": {
+   "canva_media": "MAHb3AmCgnE",
+   "scene": "Two-lane Finnish motorway in summer, yellow left edge line, white dashed lane line, hard shoulder on the right",
+   "edits": [
+    "dark corner artefact removed from the sky",
+    "first generation rejected: a car on the opposite carriageway was shown from behind (driving the wrong way)"
+   ],
+   "asset_id": "ajk-sit-s84-v1",
+   "files": {
+    "1920": "s84-v1-1920.webp",
+    "960": "s84-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 104536,
+    "960": 42528
+   },
+   "used_by": [
+    "s84"
+   ],
+   "qc": "passed 2026-11-24"
   }
  }
 }
