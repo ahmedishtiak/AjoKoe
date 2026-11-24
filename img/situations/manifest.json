@@ -1286,6 +1286,110 @@
     "s44"
    ],
    "qc": "passed 2026-11-24"
+  },
+  "s42": {
+   "canva_media": "MAHb1-p86ac",
+   "scene": "Empty single-lane roundabout entry in a suburb, give-way line and B5 + D2 signs",
+   "edits": [
+    "give-way line repainted: AI drew alternating triangles; now every triangle points at the approaching driver",
+    "B5 give-way and D2 roundabout signs replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s42-v1",
+   "files": {
+    "1920": "s42-v1-1920.webp",
+    "960": "s42-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 111546,
+    "960": 45452
+   },
+   "used_by": [
+    "s42"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s43": {
+   "canva_media": "MAHb1795yAI",
+   "scene": "Circulating in a roundabout, a pedestrian crossing the zebra on our exit road",
+   "edits": [
+    "stray direction arrow removed from the exit road"
+   ],
+   "asset_id": "ajk-sit-s43-v1",
+   "files": {
+    "1920": "s43-v1-1920.webp",
+    "960": "s43-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 123446,
+    "960": 51538
+   },
+   "used_by": [
+    "s43"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s10": {
+   "canva_media": "MAHb1-_PZdM",
+   "scene": "Residential road past a school and playground, 30 km/h sign on the right",
+   "edits": [
+    "C32 30 km/h sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s10-v1",
+   "files": {
+    "1920": "s10-v1-1920.webp",
+    "960": "s10-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 160052,
+    "960": 65700
+   },
+   "used_by": [
+    "s10",
+    "s63"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s21": {
+   "canva_media": "MAHb10jekFs",
+   "scene": "City shopping street in spring, no-stopping sign on the right kerb",
+   "edits": [
+    "C37 no-stopping sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s21-v1",
+   "files": {
+    "1920": "s21-v1-1920.webp",
+    "960": "s21-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 129628,
+    "960": 53660
+   },
+   "used_by": [
+    "s21",
+    "s88"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s87": {
+   "canva_media": "MAHb106Lkz0",
+   "scene": "Residential street in autumn, no-parking sign on the right",
+   "edits": [
+    "C38 no-parking sign replaced with official artwork",
+    "faint vertical line artefact removed from the sky"
+   ],
+   "asset_id": "ajk-sit-s87-v1",
+   "files": {
+    "1920": "s87-v1-1920.webp",
+    "960": "s87-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 146108,
+    "960": 58408
+   },
+   "used_by": [
+    "s87"
+   ],
+   "qc": "passed 2026-11-24"
   }
  }
 }
