@@ -887,6 +887,107 @@
     "s36"
    ],
    "qc": "passed 2026-11-24"
+  },
+  "s26": {
+   "canva_media": "MAHb1p3A7fY",
+   "scene": "Priority road sign, white car waiting on the side road on the right",
+   "edits": [
+    "first export came back as an unrelated image; re-exported",
+    "AI priority-road sign checked and kept (correct B1)"
+   ],
+   "asset_id": "ajk-sit-s26-v1",
+   "files": {
+    "1920": "s26-v1-1920.webp",
+    "960": "s26-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 133222,
+    "960": 54980
+   },
+   "used_by": [
+    "s26",
+    "s33"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s40": {
+   "canva_media": "MAHb1uZvBGs",
+   "scene": "End-of-priority-road sign, car approaching the next junction from the right",
+   "edits": [
+    "B2 end-of-priority sign replaced with official artwork (AI drew a striped variant)"
+   ],
+   "asset_id": "ajk-sit-s40-v1",
+   "files": {
+    "1920": "s40-v1-1920.webp",
+    "960": "s40-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 135010,
+    "960": 54086
+   },
+   "used_by": [
+    "s40"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s34": {
+   "canva_media": "MAHb1sML4AQ",
+   "scene": "Waiting to turn left (left-turn arrow), oncoming car going straight",
+   "edits": [
+    "lane arrow mirrored to a left-turn arrow (AI drew a right-turn arrow)",
+    "wrong-way arrow beyond the junction removed"
+   ],
+   "asset_id": "ajk-sit-s34-v1",
+   "files": {
+    "1920": "s34-v1-1920.webp",
+    "960": "s34-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 145146,
+    "960": 59692
+   },
+   "used_by": [
+    "s34"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s30": {
+   "canva_media": "MAHb1hVeWYc",
+   "scene": "Two lanes: left lane left-turn arrow, our lane straight-ahead arrow",
+   "edits": [
+    "left-lane arrow repainted as a left-turn arrow in lane perspective (AI drew it pointing right)"
+   ],
+   "asset_id": "ajk-sit-s30-v1",
+   "files": {
+    "1920": "s30-v1-1920.webp",
+    "960": "s30-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 139466,
+    "960": 56746
+   },
+   "used_by": [
+    "s30"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s92": {
+   "canva_media": "MAHb1tvGaGk",
+   "scene": "Cars parked along the right kerb before a junction",
+   "edits": [],
+   "asset_id": "ajk-sit-s92-v1",
+   "files": {
+    "1920": "s92-v1-1920.webp",
+    "960": "s92-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 133134,
+    "960": 54974
+   },
+   "used_by": [
+    "s92"
+   ],
+   "qc": "passed 2026-11-24"
   }
  }
 }
