@@ -1103,6 +1103,85 @@
     "s47"
    ],
    "qc": "passed 2026-11-24"
+  },
+  "s93": {
+   "canva_media": "MAHb14gaepw",
+   "scene": "Stopped at a red light, police car with blue lights behind (rear-view mirror)",
+   "edits": [
+    "bonnet lettering corrected to POLIISI (AI wrote POLISI)"
+   ],
+   "asset_id": "ajk-sit-s93-v1",
+   "files": {
+    "1920": "s93-v1-1920.webp",
+    "960": "s93-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 80138,
+    "960": 34634
+   },
+   "used_by": [
+    "s93",
+    "s94"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s8": {
+   "canva_media": "MAHb1zI66qI",
+   "scene": "Ambulance with blue lights behind (rear-view mirror), green light ahead",
+   "edits": [
+    "bonnet lettering corrected to AMBULANSSI (AI wrote AMBULANS)"
+   ],
+   "asset_id": "ajk-sit-s8-v1",
+   "files": {
+    "1920": "s8-v1-1920.webp",
+    "960": "s8-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 166480,
+    "960": 70310
+   },
+   "used_by": [
+    "s8"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s69": {
+   "canva_media": "MAHb1yzSkM0",
+   "scene": "Traffic-signals warning sign, signals ahead",
+   "edits": [
+    "A23 sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s69-v1",
+   "files": {
+    "1920": "s69-v1-1920.webp",
+    "960": "s69-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 178220,
+    "960": 70114
+   },
+   "used_by": [
+    "s69"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s100": {
+   "canva_media": "MAHb17D4fgQ",
+   "scene": "Road works, traffic controller signalling stop, temporary light green",
+   "edits": [],
+   "asset_id": "ajk-sit-s100-v1",
+   "files": {
+    "1920": "s100-v1-1920.webp",
+    "960": "s100-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 122086,
+    "960": 52000
+   },
+   "used_by": [
+    "s100"
+   ],
+   "qc": "passed 2026-11-24"
   }
  }
 }
