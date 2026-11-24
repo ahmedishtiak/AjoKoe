@@ -1,6 +1,6 @@
 # AjoKoe — photographic traffic-situation images
 
-Status 24 Nov 2026: **all 105 situations have a photo** (77 unique images; 28 situations reuse an image that shows the same scene). Everything is on the branch `image-upgrade-samples`. `main` is unchanged and ready to receive a merge.
+Status 24 Nov 2026: **all 105 situations have a photo** (77 unique images; 28 situations reuse an image that shows the same scene). Merged into `main` and live.
 
 ## 1. How illustrations worked before
 
@@ -122,7 +122,7 @@ Checklist applied to every image: professional and sharp; realistic; Finnish env
 
 ## 5. Flagged for your decision (not changed)
 
-- **s66 wording.** The explanation says the no-entry sign has "a white bar". The official Finnish C17 *Kielletty ajosuunta* artwork from Väylävirasto has a **yellow** bar, and the photo shows the official sign. Suggested wording: "A red circle with a horizontal bar…"
+- **s66 wording (fixed 24 Nov with your approval).** The explanation said the no-entry sign has "a white bar"; the official Finnish C17 *Kielletty ajosuunta* sign has a **yellow** bar. It now reads "a horizontal bar". The general theory question "A red circle with a single white horizontal bar means:" (Road signs) has the same wording and was left as it is.
 - **Finnish mode.** Situation questions and explanations are still English-only in Finnish mode (the earlier Stage B translation item).
 - **s79.** The old SVG scene drew a child, but the question is about an elk. The photo shows an elk, which matches the question.
 - **Canva clutter.** Each image left a generated asset and a one-page design in your Canva account (around a hundred of each, counting rejected attempts). They can be deleted; the website doesn't use them.
@@ -130,4 +130,4 @@ Checklist applied to every image: professional and sharp; realistic; Finnish env
 
 ## 6. Going live
 
-Merge `image-upgrade-samples` into `main`. The branch is a straight line on top of `main` (no conflicts): `index.html`, the `img/situations/` folder and this document.
+`image-upgrade-samples` was fast-forwarded into `main` on 24 Nov 2026. To roll back, revert the merge range on `main`; the SVG scenes return automatically when `SIT_PHOTO` is empty.
