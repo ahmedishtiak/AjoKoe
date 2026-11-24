@@ -988,6 +988,121 @@
     "s92"
    ],
    "qc": "passed 2026-11-24"
+  },
+  "s15": {
+   "canva_media": "MAHb1_4H9Kw",
+   "scene": "Signalled crossroads, red light, stop line",
+   "edits": [],
+   "asset_id": "ajk-sit-s15-v1",
+   "files": {
+    "1920": "s15-v1-1920.webp",
+    "960": "s15-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 104556,
+    "960": 44854
+   },
+   "used_by": [
+    "s15"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s45": {
+   "canva_media": "MAHb1_4H9Kw",
+   "scene": "Same crossroads, red and yellow lit together",
+   "edits": [
+    "lamp state edited from the s15 base (red + yellow)"
+   ],
+   "asset_id": "ajk-sit-s45-v1",
+   "files": {
+    "1920": "s45-v1-1920.webp",
+    "960": "s45-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 104808,
+    "960": 44918
+   },
+   "used_by": [
+    "s45"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s14": {
+   "canva_media": "MAHb1_4H9Kw",
+   "scene": "Same crossroads, yellow only (flashing yellow mode)",
+   "edits": [
+    "lamp state edited from the s15 base (yellow only, pedestrian signal dark); flashing is stated in the question text"
+   ],
+   "asset_id": "ajk-sit-s14-v1",
+   "files": {
+    "1920": "s14-v1-1920.webp",
+    "960": "s14-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 103882,
+    "960": 44610
+   },
+   "used_by": [
+    "s14"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s48": {
+   "canva_media": "MAHb1_4H9Kw",
+   "scene": "Same crossroads, green light",
+   "edits": [
+    "lamp state edited from the s15 base (green)"
+   ],
+   "asset_id": "ajk-sit-s48-v1",
+   "files": {
+    "1920": "s48-v1-1920.webp",
+    "960": "s48-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 104134,
+    "960": 44716
+   },
+   "used_by": [
+    "s48",
+    "s101"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s46": {
+   "canva_media": "MAHb14K8jNI",
+   "scene": "Green light, left-turn arrow, oncoming car going straight",
+   "edits": [],
+   "asset_id": "ajk-sit-s46-v1",
+   "files": {
+    "1920": "s46-v1-1920.webp",
+    "960": "s46-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 137122,
+    "960": 56790
+   },
+   "used_by": [
+    "s46"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s47": {
+   "canva_media": "MAHb1w_-PWY",
+   "scene": "Turning right on green, pedestrian on the crossing of the side street",
+   "edits": [],
+   "asset_id": "ajk-sit-s47-v1",
+   "files": {
+    "1920": "s47-v1-1920.webp",
+    "960": "s47-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 125520,
+    "960": 52218
+   },
+   "used_by": [
+    "s47"
+   ],
+   "qc": "passed 2026-11-24"
   }
  }
 }
