@@ -672,6 +672,120 @@
     "s56"
    ],
    "qc": "passed 2026-11-23"
+  },
+  "s50": {
+   "canva_media": "MAHb1pqbKuM",
+   "scene": "Two lanes, SUV stopped at the crossing in the next lane, pedestrian crossing in front of it",
+   "edits": [
+    "generated after Canva cooldown"
+   ],
+   "asset_id": "ajk-sit-s50-v1",
+   "files": {
+    "1920": "s50-v1-1920.webp",
+    "960": "s50-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 136466,
+    "960": 56854
+   },
+   "used_by": [
+    "s50"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s19": {
+   "canva_media": "MAHb1iMylO8",
+   "scene": "Ball rolling into a city street from a playground on the left",
+   "edits": [],
+   "asset_id": "ajk-sit-s19-v1",
+   "files": {
+    "1920": "s19-v1-1920.webp",
+    "960": "s19-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 149624,
+    "960": 61222
+   },
+   "used_by": [
+    "s19"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s102": {
+   "canva_media": "MAHb1kj8Tmo",
+   "scene": "Residential street, ball rolling out between parked cars",
+   "edits": [
+    "export page taken from a Canva layout variant of the same image"
+   ],
+   "asset_id": "ajk-sit-s102-v1",
+   "files": {
+    "1920": "s102-v1-1920.webp",
+    "960": "s102-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 156298,
+    "960": 65892
+   },
+   "used_by": [
+    "s102"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s52": {
+   "canva_media": "MAHb1oBm7lY",
+   "scene": "Child alone at the left kerb",
+   "edits": [],
+   "asset_id": "ajk-sit-s52-v1",
+   "files": {
+    "1920": "s52-v1-1920.webp",
+    "960": "s52-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 145686,
+    "960": 61720
+   },
+   "used_by": [
+    "s52"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s29": {
+   "canva_media": "MAHb1tmwKWw",
+   "scene": "Cyclist ahead, solid centre line, oncoming car",
+   "edits": [],
+   "asset_id": "ajk-sit-s29-v1",
+   "files": {
+    "1920": "s29-v1-1920.webp",
+    "960": "s29-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 125924,
+    "960": 51280
+   },
+   "used_by": [
+    "s29",
+    "s54"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s11": {
+   "canva_media": "MAHb1oCpw3k",
+   "scene": "Residential street, pedestrian stepping out between parked cars",
+   "edits": [],
+   "asset_id": "ajk-sit-s11-v1",
+   "files": {
+    "1920": "s11-v1-1920.webp",
+    "960": "s11-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 143506,
+    "960": 60214
+   },
+   "used_by": [
+    "s11",
+    "s103"
+   ],
+   "qc": "passed 2026-11-24"
   }
  }
 }
