@@ -583,11 +583,93 @@
     "960": "s86-v1-960.webp"
    },
    "bytes": {
-    "1920": 132538,
-    "960": 54728
+    "1920": 133828,
+    "960": 54676
    },
    "used_by": [
     "s86"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s2": {
+   "canva_media": "MAHbw5MCIBg",
+   "scene": "Zebra crossing, pedestrian approaching from the right pavement",
+   "edits": [
+    "E1 crossing sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s2-v1",
+   "files": {
+    "1920": "s2-v1-1920.webp",
+    "960": "s2-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 191070,
+    "960": 78916
+   },
+   "used_by": [
+    "s2"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s23": {
+   "canva_media": "MAHbwy35i1c",
+   "scene": "Person with a white cane waiting at a zebra crossing",
+   "edits": [
+    "zebra stripes extended across the opposite lane (AI drew only half a crossing)",
+    "E1 crossing sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s23-v1",
+   "files": {
+    "1920": "s23-v1-1920.webp",
+    "960": "s23-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 109870,
+    "960": 46410
+   },
+   "used_by": [
+    "s23",
+    "s51"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s55": {
+   "canva_media": "MAHbww485UQ",
+   "scene": "Pedestrian stepping off a refuge island into our half of the crossing",
+   "edits": [
+    "E1 crossing sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s55-v1",
+   "files": {
+    "1920": "s55-v1-1920.webp",
+    "960": "s55-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 166212,
+    "960": 69286
+   },
+   "used_by": [
+    "s55"
+   ],
+   "qc": "passed 2026-11-23"
+  },
+  "s56": {
+   "canva_media": "MAHbw8FM-4Q",
+   "scene": "Person walking a bicycle across a zebra crossing",
+   "edits": [
+    "E1 crossing sign replaced with official artwork"
+   ],
+   "asset_id": "ajk-sit-s56-v1",
+   "files": {
+    "1920": "s56-v1-1920.webp",
+    "960": "s56-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 154256,
+    "960": 63262
+   },
+   "used_by": [
+    "s56"
    ],
    "qc": "passed 2026-11-23"
   }
