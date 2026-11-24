@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-23",
+ "generated": "2026-11-23 – 2026-11-24",
  "generator": "Canva generate-image (photorealistic, 16:9), exported 1920x1080 JPEG q92",
  "sign_artwork": "Väylävirasto liikennemerkit library (CC0 1.0), github.com/finnishtransportagency/liikennemerkit",
  "files": {
@@ -1541,5 +1541,9 @@
    ],
    "qc": "passed 2026-11-24"
   }
+ },
+ "count": {
+  "images": 77,
+  "situations": 105
  }
 }
