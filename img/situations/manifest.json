@@ -786,6 +786,107 @@
     "s103"
    ],
    "qc": "passed 2026-11-24"
+  },
+  "s4": {
+   "canva_media": "MAHb1oXBHUY",
+   "scene": "Unmarked junction, red car approaching from the right side street",
+   "edits": [
+    "first export came back as an unrelated image; re-exported"
+   ],
+   "asset_id": "ajk-sit-s4-v1",
+   "files": {
+    "1920": "s4-v1-1920.webp",
+    "960": "s4-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 204364,
+    "960": 82094
+   },
+   "used_by": [
+    "s4",
+    "s39"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s31": {
+   "canva_media": "MAHb1mkP4-w",
+   "scene": "Unmarked crossroads, white car approaching from the left",
+   "edits": [],
+   "asset_id": "ajk-sit-s31-v1",
+   "files": {
+    "1920": "s31-v1-1920.webp",
+    "960": "s31-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 114306,
+    "960": 46998
+   },
+   "used_by": [
+    "s31"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s17": {
+   "canva_media": "MAHb1nHvhTs",
+   "scene": "T-junction with give-way sign and give-way line, car on the through road",
+   "edits": [
+    "give-way triangles flipped to point at the driver (AI drew them pointing away)",
+    "AI give-way sign checked and kept (correct B5)"
+   ],
+   "asset_id": "ajk-sit-s17-v1",
+   "files": {
+    "1920": "s17-v1-1920.webp",
+    "960": "s17-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 162890,
+    "960": 68084
+   },
+   "used_by": [
+    "s17"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s32": {
+   "canva_media": "MAHb1hkLEjA",
+   "scene": "STOP sign and stop line at a crossroads, car approaching from the right behind a hedge",
+   "edits": [
+    "white centre line recoloured yellow (Finnish two-way road)",
+    "AI STOP sign checked and kept (correct B6)"
+   ],
+   "asset_id": "ajk-sit-s32-v1",
+   "files": {
+    "1920": "s32-v1-1920.webp",
+    "960": "s32-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 160590,
+    "960": 64900
+   },
+   "used_by": [
+    "s32"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s36": {
+   "canva_media": "MAHb1lX5TgM",
+   "scene": "Unsigned T-junction, car approaching from the right on the crossing street",
+   "edits": [
+    "stray road markings at the junction removed"
+   ],
+   "asset_id": "ajk-sit-s36-v1",
+   "files": {
+    "1920": "s36-v1-1920.webp",
+    "960": "s36-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 124330,
+    "960": 49592
+   },
+   "used_by": [
+    "s36"
+   ],
+   "qc": "passed 2026-11-24"
   }
  }
 }
