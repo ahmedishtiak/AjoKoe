@@ -1390,6 +1390,113 @@
     "s87"
    ],
    "qc": "passed 2026-11-24"
+  },
+  "s24": {
+   "canva_media": "MAHb2EKVjAM",
+   "scene": "Paved residential living street with planters and bicycles, living-street sign on the right",
+   "edits": [
+    "AI portrait-format sign replaced with official E24 living-street sign at its true proportions"
+   ],
+   "asset_id": "ajk-sit-s24-v1",
+   "files": {
+    "1920": "s24-v1-1920.webp",
+    "960": "s24-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 209626,
+    "960": 87300
+   },
+   "used_by": [
+    "s24",
+    "s65"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s35": {
+   "canva_media": "MAHb2JardLQ",
+   "scene": "End of a living street meeting a main road, pedestrian on the pavement across the exit, end-of-living-street sign",
+   "edits": [
+    "pedestrian moved from the main-road carriageway onto the pavement across the exit (AI had them walking in the road)",
+    "AI sign replaced with official E25 end-of-living-street sign",
+    "first generation rejected: car on the main road drove in the wrong lane"
+   ],
+   "asset_id": "ajk-sit-s35-v1",
+   "files": {
+    "1920": "s35-v1-1920.webp",
+    "960": "s35-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 144478,
+    "960": 59766
+   },
+   "used_by": [
+    "s35"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s66": {
+   "canva_media": "MAHb2K1V4AE",
+   "scene": "Entrance to a narrow cobbled one-way street in an old town centre, no-entry signs on both kerbs",
+   "edits": [
+    "both AI signs replaced with official C17 no-entry signs",
+    "faint vertical line artefact removed from the sky"
+   ],
+   "asset_id": "ajk-sit-s66-v1",
+   "files": {
+    "1920": "s66-v1-1920.webp",
+    "960": "s66-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 115008,
+    "960": 46286
+   },
+   "used_by": [
+    "s66"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s67": {
+   "canva_media": "MAHb2Qf-5Q0",
+   "scene": "Two-lane road at the edge of town, car ahead in our lane, no-overtaking sign on the right",
+   "edits": [
+    "AI sign replaced with official C28 no-overtaking sign"
+   ],
+   "asset_id": "ajk-sit-s67-v1",
+   "files": {
+    "1920": "s67-v1-1920.webp",
+    "960": "s67-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 117054,
+    "960": 48304
+   },
+   "used_by": [
+    "s67"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s90": {
+   "canva_media": "MAHb3AEGO_g",
+   "scene": "Town-centre street with cars parked in single file at the kerb, P sign with parking-disc panel",
+   "edits": [
+    "P sign and panel replaced with official E2 + H19.2 parking-disc panel (30 min)",
+    "centre line recoloured from white to yellow",
+    "two people walking in the carriageway far ahead removed",
+    "first generation rejected: a car was double-parked and the bay markings were garbled"
+   ],
+   "asset_id": "ajk-sit-s90-v1",
+   "files": {
+    "1920": "s90-v1-1920.webp",
+    "960": "s90-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 94056,
+    "960": 38924
+   },
+   "used_by": [
+    "s90"
+   ],
+   "qc": "passed 2026-11-24"
   }
  }
 }
