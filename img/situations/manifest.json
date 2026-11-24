@@ -1182,6 +1182,110 @@
     "s100"
    ],
    "qc": "passed 2026-11-24"
+  },
+  "s7": {
+   "canva_media": "MAHb11BruwQ",
+   "scene": "Tram stopped without a boarding island, passengers crossing our lane to the pavement",
+   "edits": [
+    "regenerated once: first version showed the tram facing us"
+   ],
+   "asset_id": "ajk-sit-s7-v1",
+   "files": {
+    "1920": "s7-v1-1920.webp",
+    "960": "s7-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 112166,
+    "960": 47776
+   },
+   "used_by": [
+    "s7",
+    "s97"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s38": {
+   "canva_media": "MAHb14Mxkgw",
+   "scene": "Unsigned crossroads, tram on the crossing street from the left",
+   "edits": [
+    "regenerated once: first version had a give-way sign and marking that would change the rule tested"
+   ],
+   "asset_id": "ajk-sit-s38-v1",
+   "files": {
+    "1920": "s38-v1-1920.webp",
+    "960": "s38-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 117766,
+    "960": 48868
+   },
+   "used_by": [
+    "s38"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s27": {
+   "canva_media": "MAHb13c6c5A",
+   "scene": "Town street with 50 km/h sign, bus signalling left to leave a stop",
+   "edits": [
+    "C32 50 km/h sign replaced with official artwork",
+    "right-hand amber lamps turned off so only the left indicator shows"
+   ],
+   "asset_id": "ajk-sit-s27-v1",
+   "files": {
+    "1920": "s27-v1-1920.webp",
+    "960": "s27-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 140018,
+    "960": 58440
+   },
+   "used_by": [
+    "s27",
+    "s95"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s91": {
+   "canva_media": "MAHb15rb5Kk",
+   "scene": "Empty bus stop at the kerb",
+   "edits": [
+    "bus-stop sign replaced with official E6 (AI drew a round blue sign, which is not a Finnish bus-stop sign)"
+   ],
+   "asset_id": "ajk-sit-s91-v1",
+   "files": {
+    "1920": "s91-v1-1920.webp",
+    "960": "s91-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 143698,
+    "960": 57384
+   },
+   "used_by": [
+    "s91"
+   ],
+   "qc": "passed 2026-11-24"
+  },
+  "s44": {
+   "canva_media": "MAHb1-gcgBo",
+   "scene": "Roundabout entry, cyclist circulating",
+   "edits": [
+    "D2 roundabout sign replaced with official artwork",
+    "AI give-way sign checked and kept (correct B5)"
+   ],
+   "asset_id": "ajk-sit-s44-v1",
+   "files": {
+    "1920": "s44-v1-1920.webp",
+    "960": "s44-v1-960.webp"
+   },
+   "bytes": {
+    "1920": 132162,
+    "960": 54620
+   },
+   "used_by": [
+    "s44"
+   ],
+   "qc": "passed 2026-11-24"
   }
  }
 }
